@@ -4,7 +4,7 @@
 
 *The application identifying a user and their hand gesture.*
 
-![The Raspberry Pi 4 and Camera Module setup](RasPiSetup.jpg)
+![The Raspberry Pi 4 and Camera Module setup](RasPiSetup%20(1).jpg)
 
 *The hardware setup: a Raspberry Pi 4 Model B and a Camera Module.*
 
