@@ -4,9 +4,12 @@
 
 *The application identifying a user and their hand gesture.*
 
+
 ![The Raspberry Pi 4 and Camera Module setup](RasPiSetup%20(1).jpg)
 
 *The hardware setup: a Raspberry Pi 4 Model B and a Camera Module.*
+
+
 
 This project, something I developed for the 3rd year of my MEng Electronic Engineering with Computer Systems course at the University of Southampton, is a real-time recognition system that identifies registered users and their hand gestures from a live video stream. It's designed to run on embedded systems like the Raspberry Pi 4 and serves as a great starting point for anyone interested in exploring the world of Computer Vision and AI on edge devices.
 
